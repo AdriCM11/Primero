@@ -1,1 +1,1 @@
-# This is a python scrip
+import numpy as np
